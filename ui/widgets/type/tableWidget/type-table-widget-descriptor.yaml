@@ -1,0 +1,6 @@
+code: type-table-widget
+titles:
+  en: Type Table Widget
+  it: Type Table Widget
+group: free
+customUiPath: type-table-widget.ftl

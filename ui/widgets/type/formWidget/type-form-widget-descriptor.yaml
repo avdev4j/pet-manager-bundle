@@ -1,0 +1,6 @@
+code: type-form-widget
+titles:
+  en: Type Form Widget
+  it: Type Form Widget
+group: free
+customUiPath: type-form-widget.ftl

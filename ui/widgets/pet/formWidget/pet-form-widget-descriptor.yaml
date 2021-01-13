@@ -1,0 +1,6 @@
+code: pet-form-widget
+titles:
+  en: Pet Form Widget
+  it: Pet Form Widget
+group: free
+customUiPath: pet-form-widget.ftl

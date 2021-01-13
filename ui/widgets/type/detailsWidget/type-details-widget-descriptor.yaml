@@ -1,0 +1,6 @@
+code: type-details-widget
+titles:
+  en: Type Details Widget
+  it: Type Details Widget
+group: free
+customUiPath: type-details-widget.ftl

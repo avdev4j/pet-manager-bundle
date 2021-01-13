@@ -1,0 +1,6 @@
+code: pet-details-widget
+titles:
+  en: Pet Details Widget
+  it: Pet Details Widget
+group: free
+customUiPath: pet-details-widget.ftl

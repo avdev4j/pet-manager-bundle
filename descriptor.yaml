@@ -1,0 +1,16 @@
+code: petmanager-bundle
+description: This is the petManager bundle
+
+components:
+  plugins:
+    - plugins/petmanager-plugin.yaml
+
+  widgets:
+    - ui/widgets/pet/tableWidget/pet-table-widget-descriptor.yaml
+    - ui/widgets/pet/detailsWidget/pet-details-widget-descriptor.yaml
+    - ui/widgets/pet/formWidget/pet-form-widget-descriptor.yaml
+    - ui/widgets/type/tableWidget/type-table-widget-descriptor.yaml
+    - ui/widgets/type/detailsWidget/type-details-widget-descriptor.yaml
+    - ui/widgets/type/formWidget/type-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

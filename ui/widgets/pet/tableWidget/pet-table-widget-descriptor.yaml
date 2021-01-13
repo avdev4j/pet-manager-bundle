@@ -1,0 +1,6 @@
+code: pet-table-widget
+titles:
+  en: Pet Table Widget
+  it: Pet Table Widget
+group: free
+customUiPath: pet-table-widget.ftl

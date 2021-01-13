@@ -1,0 +1,8 @@
+image: avdev4j/pet-manager:0.0.1-SNAPSHOT
+dbms: mysql
+healthCheckPath: "/management/health"
+roles:
+  - "petManager-admin"
+  - "pet-admin"
+  - "type-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
